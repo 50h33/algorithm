@@ -12,4 +12,4 @@
 | 삼성 기출 | `algorithm-cpp-samsung` | private |
 | 소마 대비 | `algorithm-cpp-soma` | public |
 
-→ [백준/프로그래머스 전체 문제](https://github.com/sohee52/boj-programmers)
+→ 백준/프로그래머스 전체 문제: [boj-programmers](https://github.com/sohee52/boj-programmers)
