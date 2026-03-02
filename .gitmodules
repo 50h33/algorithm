@@ -2,10 +2,6 @@
 	path = algorithm-cpp-samsung
 	url = https://github.com/sohee52/algorithm-cpp-samsung.git
 	branch = main
-[submodule "algorithm-cpp-inyro"]
-	path = algorithm-cpp-inyro
-	url = https://github.com/sohee52/algorithm-cpp-inyro.git
-	branch = main
 [submodule "algorithm-cpp-mkh"]
 	path = algorithm-cpp-mkh
 	url = https://github.com/sohee52/algorithm-cpp-mkh.git
