@@ -9,9 +9,6 @@
 [submodule "algorithm-cpp-bigstone"]
 	path = algorithm-cpp-bigstone
 	url = https://github.com/sohee52/algorithm-cpp-bigstone.git
-[submodule "algorithm-cpp-soma"]
-	path = algorithm-cpp-soma
-	url = https://github.com/sohee52/algorithm-cpp-soma
 [submodule "cpp-notes"]
 	path = cpp-notes
 	url = https://github.com/sohee52/cpp-notes
