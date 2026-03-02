@@ -9,7 +9,3 @@
 [submodule "algorithm-cpp-bigstone"]
 	path = algorithm-cpp-bigstone
 	url = https://github.com/sohee52/algorithm-cpp-bigstone.git
-[submodule "cpp-notes"]
-	path = cpp-notes
-	url = https://github.com/sohee52/cpp-notes
-	branch = main
