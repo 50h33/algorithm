@@ -1,11 +1,3 @@
-[submodule "algorithm-cpp-samsung"]
-	path = algorithm-cpp-samsung
-	url = https://github.com/sohee52/algorithm-cpp-samsung.git
-	branch = main
-[submodule "algorithm-cpp-inyro"]
-	path = algorithm-cpp-inyro
-	url = https://github.com/sohee52/algorithm-cpp-inyro.git
-	branch = main
 [submodule "algorithm-cpp-mkh"]
 	path = algorithm-cpp-mkh
 	url = https://github.com/sohee52/algorithm-cpp-mkh.git
@@ -17,10 +9,3 @@
 [submodule "algorithm-cpp-bigstone"]
 	path = algorithm-cpp-bigstone
 	url = https://github.com/sohee52/algorithm-cpp-bigstone.git
-[submodule "algorithm-cpp-soma"]
-	path = algorithm-cpp-soma
-	url = https://github.com/sohee52/algorithm-cpp-soma
-[submodule "cpp-notes"]
-	path = cpp-notes
-	url = https://github.com/sohee52/cpp-notes
-	branch = main
