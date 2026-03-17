@@ -9,4 +9,4 @@
 | 학교 수업 | `algorithm-cpp-mkh` | private |
 | class와 유형별 문제 | `algorithm-cpp-practice` | public |
 
-→ 백준/프로그래머스 전체 문제: [boj-programmers](https://github.com/sohee52/boj-programmers)
+→ 백준/프로그래머스 전체 문제: [boj-programmers](https://github.com/50h33/boj-programmers)
